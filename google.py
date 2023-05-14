@@ -6,6 +6,7 @@ import time
 import urllib.request
 import os
 
+
 search_name=input("찾고 싶은 이미지를 검색하세요: ")
 txt_folder = 'C:/users/tjral/Desktop/웹크롤링'
 add_folder=input("새로 만들 폴더 이름을 적으세요. (없으면 엔터): ")
